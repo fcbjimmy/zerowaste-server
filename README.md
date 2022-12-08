@@ -13,5 +13,5 @@ Sequelize
 
 ## Link
 
-https://zerowaste-client.onrender.com/
+https://zerowaste-client.onrender.com/  
 https://github.com/fcbjimmy/zerowaste-server
