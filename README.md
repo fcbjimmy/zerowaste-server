@@ -53,3 +53,4 @@ const sequelize = new Sequelize('postgres://user:pass@example.com:5432/dbname') 
 Working with ENUM type values in Sequelize
 https://sebhastian.com/sequelize-enum/
 # zerowaste-server
+# zerowaste-server
